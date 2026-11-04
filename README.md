@@ -1,6 +1,6 @@
 # Catalyst
 
-Catalyst is a Claude skill for diagnosing and fixing Intercom Albert/Fin issues, improving knowledge grounding, refining routing/escalation logic, and validating support bot quality with real customer scenarios.
+Catalyst is a Claude skill for training and fixing Intercom Albert/Fin issues, improving knowledge grounding, refining routing/escalation logic, and validating support bot quality with real customer scenarios.
 
 ## Included files
 
